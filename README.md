@@ -6,7 +6,7 @@ This repository contains a Power BI dashboard providing visual insights into the
 
 ## Data Preprocessing
 
-The `data_preprocessing` script  contains documentation outlining the steps taken to clean and prepare the COVID-19 data for analysis. This includes handling missing values, normalizing data, and structuring it for effective visualization that was done through the Python file attached `DataPreprocessing.ipynb`.
+The `Source_code.ipynb` script  contains documentation outlining the steps taken to clean and prepare the COVID-19 data for analysis. This includes handling missing values, normalizing data, and structuring it for effective visualization that was done through the Python file attached `Source_code.ipynb`.
 
 ## Dashboard
 
@@ -25,17 +25,17 @@ The analysis addresses the following problem statements:
 ![image](https://github.com/narayan123411/Dashboard_Covid19_Power-BI/assets/53684708/f2d47a05-d8eb-45f8-9c34-4f2bd73076c5)
 
   
-2. **Impact Assessment** - Was there any impact of an age on recovering od death by Covid-19?
+2. **Impact Assessment** -Does age affect COVID-19 recovery or death rates?
 
 ![image](https://github.com/narayan123411/Dashboard_Covid19_Power-BI/assets/53684708/e3e2e81a-a9b7-4172-955f-800f4c3a2129)
 
    
-3. **Response Effectiveness** - Was there any change in symtoms over a period of time?
+3. **Response Effectiveness** -  Have reported COVID-19 symptoms changed over time?
 
 ![image](https://github.com/narayan123411/Dashboard_Covid19_Power-BI/assets/53684708/bf742200-3ba6-413d-9dd4-117618f5a760)
 
 
-Each problem statement is explored with corresponding visualizations and findings were documnented in the `report`.
+Each problem statement is explored with corresponding visualizations and findings was documented in the `report`.
 
 ## Viewing the Dashboard
 
